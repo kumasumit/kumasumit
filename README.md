@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumasumit
+- 👋 Hi, I’m Kumar Sumit
 - 👀 I’m interested in React, NextJs, Javascript and Html.
 - 🌱 I’m currently learning Recat
 - 💞️ I’m looking to collaborate on React, Javascript and NextJs Projects
