@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kumar Sumit
 - 👀 I’m interested in React, NextJs, Javascript and Html.
-- 🌱 I’m currently learning React, React-Routervs6 and React Server Side Rendering. 
+- 🌱 Skills: React Html CSS Javascript.
 - 💞️ I’m looking to collaborate on React, Javascript and NextJs Projects
 - 📫 How to reach me ... kumarsumit1989@gmail.com
 
