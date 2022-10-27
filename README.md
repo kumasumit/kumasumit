@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kumar Sumit
-- 👀 I’m interested in React, NextJs, Javascript and Html.
-- 🌱 Skills: React Html CSS Javascript.
-- 💞️ I’m looking to collaborate on React, Javascript and NextJs Projects
+- 👀 I’m interested in Mern Stack .
+- 🌱 Skills: React Html CSS Javascript Nodejs Express.
+- 💞️ I’m looking to collaborate on React, Javascript, Nodejs, Express js Projects
 - 📫 How to reach me ... kumarsumit1989@gmail.com
 
 <!---
