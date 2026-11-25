@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Kumar Sumit
-- 👀 I’m interested in Mern Stack .
-- 🌱 Skills: React Html CSS Javascript Nodejs Express.
-- 💞️ I’m looking to collaborate on React, Javascript, Nodejs, Express js Projects
-- 📫 How to reach me ... coding.kumarsumit@gmail.com
+- 👋 Hi, I'm **Kumar Sumit**
+- 💻 Full-Stack Engineer specializing in the MERN stack (React, Node.js, Express, JavaScript)
+- 🤖 AI Enthusiast passionate about exploring emerging technologies and building intelligent applications
+- 💞 Open to collaborating on Full-Stack, AI-powered, and modern web projects
+- 📫 Reach me at: **coding.kumarsumit@gmail.com**
+
 
 <!---
 kumasumit/kumasumit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
